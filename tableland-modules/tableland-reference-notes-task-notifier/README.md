@@ -1,4 +1,4 @@
-
+The initial goal of this project is to develop a reference notes platform for FVM smart contract designers using Tableland. Utilizing the tableland to do architecture for development.
 
 ```bash
 # install dependencies
