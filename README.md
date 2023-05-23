@@ -18,10 +18,11 @@ We built the developer tooling for alarm and task notifiers, reference notes dap
 
 # Blockchain eco-system:
 
-1. Filecoin Speech Developer Toolkit
+1. FVM Speech Developer Toolkit using Open source TTS engines, JS frameworks and FVM enabled on-chain, automated interactions: Please visit https://github.com/seetadev/FVM-Speech-Tools/tree/main/FVM-Speech-Synthesis-Integrate
 
-2. Filecoin Analytics Tools:
+2. Filecoin Analytics Tools: Filecoin analytics tools for data organization, validation, transformation, internationalization and classification of on-chain data: Please visit https://github.com/seetadev/FVM-Speech-Tools/tree/main/FVM-Data-Engine-Visualizer
 
-3. Alarm notifier and reference notes dapp using Tableland 
+3. Alarm notifier, reference notes and task tracker dapp using Tableland for FVM Speech Tools: Please visit alarm notifier, tasks and reference note modules at https://github.com/seetadev/FVM-Speech-Tools/tree/main/tableland-modules/tableland-alarm-notifier , https://github.com/seetadev/FVM-Speech-Tools/tree/main/tableland-modules/tableland-reference-notes-task-notifier and https://github.com/seetadev/FVM-Speech-Tools/tree/main/tableland-modules/tableland-todo 
 
-4. Interacting with off-chain data like Wordnet using Tellor
+4. Interacting with off-chain data like Wordnet dictionary using Tellor: Integration with FVM analytics tools and interaction with with off-chain data like Wordnet dictionary at https://github.com/seetadev/FVM-Speech-Tools/tree/main/FVM-Data-Engine-Visualizer &
+https://github.com/seetadev/FVM-Speech-Tools/tree/main/FVM-Data-Engine-Visualizer/off-chain-data-source-interact-Tellor
