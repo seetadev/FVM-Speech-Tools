@@ -1,5 +1,5 @@
-# FVM-Speech-Tools
-Developer Tools to enable conversational interface development with speech synthesis for the Filecoin eco-system. 
+# FVM Speech Tools
+Developer Tools to enable conversational interface design with speech synthesis for the Filecoin eco-system dapps. Notification, task builder, notes dapp with Tableland, Tellor & FVM analytics tools.
 
 # Details 
 
