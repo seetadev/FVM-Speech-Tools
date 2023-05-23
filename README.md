@@ -15,3 +15,13 @@ FVM analytics toolkit enables data tabulation, organization, validation and visu
 We developed the speech synthesis toolkit using open source TTS (text to speech) engines, interface using JS frameworks and are developing on-chain integrations to hyperspace testnet and mainnet to support FVM based dapps. We also integrated an FVM analytics toolkit built using an OSS spreadsheet for data tabulation, organization, collaboration of FVM data.
 
 We built the developer tooling for alarm and task notifiers, reference notes dapp using Tableland and OSS JS frameworks. This dapp serves as a notes section for the conversational interface for understanding FVM smart contracts. We are interacting with off-chain data sources like Wordnet dictionary and fetching keywords using Tellor.
+
+# Blockchain eco-system:
+
+1. Filecoin Speech Developer Toolkit
+
+2. Filecoin Analytics Tools:
+
+3. Alarm notifier and reference notes dapp using Tableland 
+
+4. Interacting with off-chain data like Wordnet using Tellor
