@@ -1,13 +1,13 @@
-# FVM Speech Tools
-Developer Tools to enable conversational interface design with speech synthesis for the Filecoin eco-system dapps. Notification, task builder, notes dapp with Tableland, Tellor & FVM analytics tools.
+# Speech Tools
+Developer Tools to enable conversational interface design with speech synthesis for the Filecoin eco-system dapps. Notification, task builder, notes dapp with Tableland, chainlink & Chainlink analytics tools.
 
 # Details 
 
-FVM Speech Tools are developer tools that enables FVM smart contract designers, developers and community managers to integrate speech synthesis, conversational interface and internationalization for their filecoin enabled dapps or infrastructure, developer tooling.  
+Speech Tools are developer tools that enables smart contract designers, developers and community managers to integrate speech synthesis, conversational interface and internationalization for their dapps.  
 
-We have also used Tableland and Tellor to create a task notifier and a reference notes dapp with the developer tooling module for speech synthesis enablement for Filecoin eco-system dapps. Tellor enables us to interact securely and obtain data from off-chain sources like OSS Wordnet dictionary.
+We have also used Tableland and Chainlink to create a task notifier and a reference notes dapp with the developer tooling module for speech synthesis enablement for Filecoin eco-system dapps. Chainlink services enables us to interact securely and obtain data from off-chain sources like OSS Wordnet dictionary.
 
-FVM analytics toolkit enables data tabulation, organization, validation and visualization of on-chain data using an OSS spreadsheet.  Our toolkit enables a speech interface for dapp developers to integrate it within their solution as a low code framework to empower Web3 users via speech synthesis and internationalization.
+Chainlink analytics toolkit enables data tabulation, organization, validation and visualization of on-chain data using an OSS spreadsheet.  Our toolkit enables a speech interface for dapp developers to integrate it within their solution as a low code framework to empower Web3 users via speech synthesis and internationalization.
 
 
 # How we built it
@@ -20,7 +20,7 @@ We built the developer tooling for alarm and task notifiers, reference notes dap
 
 1. FVM Speech Developer Toolkit using Open source TTS engines, JS frameworks and FVM enabled on-chain, automated interactions: Please visit https://github.com/seetadev/FVM-Speech-Tools/tree/main/FVM-Speech-Synthesis-Integrate
 
-2. Filecoin Analytics Tools: Filecoin analytics tools for data organization, validation, transformation, internationalization and classification of on-chain data: Please visit https://github.com/seetadev/FVM-Speech-Tools/tree/main/FVM-Data-Engine-Visualizer
+2. Chainlink Analytics Tools: Filecoin analytics tools for data organization, validation, transformation, internationalization and classification of on-chain data: Please visit https://github.com/seetadev/FVM-Speech-Tools/tree/main/FVM-Data-Engine-Visualizer
 
 3. Alarm notifier, reference notes and task tracker dapp using Tableland for FVM Speech Tools: Please visit alarm notifier, tasks and reference note modules at https://github.com/seetadev/FVM-Speech-Tools/tree/main/tableland-modules/tableland-alarm-notifier , https://github.com/seetadev/FVM-Speech-Tools/tree/main/tableland-modules/tableland-reference-notes-task-notifier and https://github.com/seetadev/FVM-Speech-Tools/tree/main/tableland-modules/tableland-todo 
 
