@@ -1,0 +1,1 @@
+# LINK External Adapter for IPFS
